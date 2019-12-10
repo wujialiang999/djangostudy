@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(223,204,204);
+}
+li{
+    color: green;
+    text-decoration: none;
+    list-style-type: square type decimal;
+}
